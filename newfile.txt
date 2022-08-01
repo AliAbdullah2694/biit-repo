@@ -1,4 +1,4 @@
 Welcome to BIIT
 Barani Institute of Information Technology
 This is new branch
-This is master conflict
+This is newbranch conflict
