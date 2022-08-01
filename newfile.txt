@@ -1,1 +1,2 @@
-Hello World
+Welcome to BIIT
+Barani Institute of Information Technology
